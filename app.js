@@ -18,7 +18,7 @@ export default function App() {
   };
  
   return (
-     <ImageBackground source={{uri:'https://github.com/millenyleop/placar/blob/main/images.png',}} style={styles.backgroundImage}>
+     <ImageBackground source={{uri:'https://github.com/millenyleop/placar/blob/main/pombo.png',}} style={styles.backgroundImage}>
        <View style={styles.container}>
          <Text style={styles.title}>Contador em React Native</Text>
          <Text style={styles.count}>{count}</Text>
